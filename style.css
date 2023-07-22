@@ -16,12 +16,12 @@
   height: 109vh;
 }
 .navbar {
-  width: 1200px;
+  width: 1000px;
   height: 75px;
   margin: auto;
 }
 .icon {
-  width: 200px;
+  width:200px;
   float: left;
   height: 70px;
 }
@@ -34,7 +34,7 @@
   padding-top: 10px;
 }
 .menu {
-  width: 400px;
+  width: 550px;
   float: left;
   height: 70px;
 }
@@ -47,7 +47,7 @@
 }
 ul li {
   list-style: none;
-  margin-left: 62px;
+  margin-left: 50px;
   margin-top: 27px;
   font-size: 14px;
 }
@@ -62,13 +62,14 @@ ul li a:hover {
   color: orange;
 }
 .search {
-  width: 330px;
+  width: 250px;
   float: left;
-  margin-left: 270px;
+  left: 50px;
+  
 }
 .srch {
   font-family: "Times New Roman";
-  width: 200px;
+  width:150px;
   height: 40px;
   background: transparent;
   border: 1px solid #ff7200;
@@ -99,7 +100,7 @@ ul li a:hover {
   outline: none;
 }
 .content {
-  width: 1200px;
+  width: 990px;
   height: auto;
   margin: auto;
   color: #fff;
@@ -152,8 +153,8 @@ ul li a:hover {
     rgba(0, 0, 0, 0.8) 50%
   );
   position: absolute;
-  top: -20px;
-  left: 870px;
+  top: -90px;
+  left: 695px;
   border-radius: 10px;
   padding: 25px;
 }
